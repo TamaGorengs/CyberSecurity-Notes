@@ -8,4 +8,4 @@
 1. Primary goal of networking is to exchange information between networked computers which carried by *packet*
 2. Packet is a stream of bits running as electric signals on physical media used for data transmission. can be through wire in LAN or the air in WiFi
 3. These electrical signals are then interpreted as bits (0 & 1) that make up the information
-4. ![[Pasted image 20220712093934.png]]
+4. <img src="https://cdn.solace.com/wp-content/uploads/2016/05/solace-message_payload.png">
